@@ -1,0 +1,25 @@
+:root {
+    --soft-grey: #F5F5F5; 
+    --Forest-Green: #2E8B57; 
+    --primaryColor: #008080;
+    --secondary-color: #2C3E50;
+    --accent-color: #F39C12;
+    --font-color: #2C3E50;
+    --white: #FFFFFF; 
+    --black: #000000; 
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    list-style-type: none;
+    scroll-behavior: smooth;
+  }
+
+html {
+    overflow-x: hidden;
+}
